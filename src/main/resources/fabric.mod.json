@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "devmode",
+  "version": "${version}",
+  "name": "Dev Mode",
+  "description": "A movement gamemode (speed counter, bunnyhop, wall kicks) plus the Sword of Revenge, guns, a throwing knife, Hollow Purple and The World Slicer.",
+  "authors": ["you"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.devmode.DevModeMod"],
+    "client": ["com.devmode.client.DevModeClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

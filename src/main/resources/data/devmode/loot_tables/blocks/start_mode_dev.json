@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:block",
+  "pools": [ { "rolls": 1, "entries": [ { "type": "minecraft:item", "name": "devmode:start_mode_dev" } ],
+               "conditions": [ { "condition": "minecraft:survives_explosion" } ] } ]
+}

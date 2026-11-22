@@ -1,0 +1,9 @@
+{
+  "block.devmode.start_mode_dev": "start_mode_dev",
+  "item.devmode.sword_of_revenge": "The Sword of Revenge",
+  "item.devmode.pistol": "Pistol",
+  "item.devmode.shotgun": "Shotgun",
+  "item.devmode.sniper": "Sniper Rifle",
+  "item.devmode.pocket_knife": "Pocket Knife",
+  "entity.devmode.pocket_knife": "Pocket Knife"
+}
